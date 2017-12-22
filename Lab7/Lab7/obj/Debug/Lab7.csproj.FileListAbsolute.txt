@@ -1,4 +1,0 @@
-c:\users\valentin\documents\visual studio 2015\Projects\Lab7\Lab7\bin\Debug\Lab7.exe.config
-c:\users\valentin\documents\visual studio 2015\Projects\Lab7\Lab7\obj\Debug\Lab7.csprojResolveAssemblyReference.cache
-c:\users\valentin\documents\visual studio 2015\Projects\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
-c:\users\valentin\documents\visual studio 2015\Projects\Lab7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.Cache
